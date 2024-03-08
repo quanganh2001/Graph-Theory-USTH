@@ -29,4 +29,5 @@ Documents for students
 - Slides: [Breadth-First-Search (BFS)](Session3/06-Graph-Traversal-BFS.pdf)
 - Slides: [Dijkstra's Algorithm](Session3/07-Dijkstra.pdf)
 # Session 4 - Minimum Spanning Tree
-- Slides: [Minimum Spanning Tree](Session4/08-MinimumSpanningTree.pdf)
+- Slides: [Prim's and Kruskal algorithms](Session4/08-MinimumSpanningTreePrim.pdf)
+- Slides: [Minimum Spanning Tree: examples](Session4/08-MinimumSpanningTreeRuns.pdf)
