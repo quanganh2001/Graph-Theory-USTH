@@ -5,6 +5,8 @@
 - [Session 2 - ADT - Graph Traversal - Complexity](#session-2---adt---graph-traversal---complexity)
 - [Session 3 - Graph Traversal - Complexity](#session-3---graph-traversal---complexity)
 - [Session 4 - Minimum Spanning Tree](#session-4---minimum-spanning-tree)
+- [Session 5 - Binary Trees - Huffman - Binary Search Trees](#session-5---binary-trees---huffman---binary-search-trees)
+- [Session 6 - Maximum flows - Ford-Fulkerson -Edmonds and Karp](#session-6---maximum-flows---ford-fulkerson--edmonds-and-karp)
 
 Documents for students
 # Session 1 - Introduction
@@ -31,3 +33,7 @@ Documents for students
 # Session 4 - Minimum Spanning Tree
 - Slides: [Prim's and Kruskal algorithms](Session4/08-MinimumSpanningTreePrim.pdf)
 - Slides: [Minimum Spanning Tree: examples](Session4/08-MinimumSpanningTreeRuns.pdf)
+# Session 5 - Binary Trees - Huffman - Binary Search Trees
+- Slides: [Binary Trees - Huffman - Binary Search Trees](Session5/05-BinaryTrees.pdf)
+# Session 6 - Maximum flows - Ford-Fulkerson -Edmonds and Karp
+- Slides: [Maximum Flows](Session6/06-Max-Flow.pdf)
