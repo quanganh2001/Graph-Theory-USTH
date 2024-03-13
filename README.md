@@ -7,6 +7,9 @@
 - [Session 4 - Minimum Spanning Tree](#session-4---minimum-spanning-tree)
 - [Session 5 - Binary Trees - Huffman - Binary Search Trees](#session-5---binary-trees---huffman---binary-search-trees)
 - [Session 6 - Maximum flows - Ford-Fulkerson -Edmonds and Karp](#session-6---maximum-flows---ford-fulkerson--edmonds-and-karp)
+- [Session 7 - Graph Coloring](#session-7---graph-coloring)
+- [Session 8 - Introduction to NP-complete problems](#session-8---introduction-to-np-complete-problems)
+- [Session 9 - Complex Networks](#session-9---complex-networks)
 
 Documents for students
 # Session 1 - Introduction
@@ -37,3 +40,9 @@ Documents for students
 - Slides: [Binary Trees - Huffman - Binary Search Trees](Session5/05-BinaryTrees.pdf)
 # Session 6 - Maximum flows - Ford-Fulkerson -Edmonds and Karp
 - Slides: [Maximum Flows](Session6/06-Max-Flow.pdf)
+# Session 7 - Graph Coloring
+- Slides: [Graph Coloring](Session7/07-Graph-Coloring.pdf)
+# Session 8 - Introduction to NP-complete problems
+- Slides: [Intro. NP-complete](Session8/08-Intro-NP-Complete.pdf)
+# Session 9 - Complex Networks
+- Slides: [Complex Networks](Session9/09-Complex-Networks.pdf)
