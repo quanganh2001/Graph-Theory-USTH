@@ -3,6 +3,7 @@
 - [Session 1 - Introduction](#session-1---introduction)
 	- [Graph Software](#graph-software)
 - [Session 2 - ADT - Graph Traversal - Complexity](#session-2---adt---graph-traversal---complexity)
+	- [Assignment](#assignment)
 - [Session 3 - Graph Traversal - Complexity](#session-3---graph-traversal---complexity)
 - [Session 4 - Minimum Spanning Tree](#session-4---minimum-spanning-tree)
 - [Session 5 - Binary Trees - Huffman - Binary Search Trees](#session-5---binary-trees---huffman---binary-search-trees)
@@ -29,6 +30,15 @@ Documents for students
 - Code: _copy lib directory and its content_ [lib](Session2/lib)
 - Data: _example graph:_ [`soc-karate.mtx`](Session2/data/soc-karate/soc-karate.mtx)
 - Slides: [DFS Algorithm with a stack](Session2/04-DFS-Algo-With-Stack.pdf)
+## Assignment
+[Implement BFS using a queue in Python](Session2/dfs_implement.py)
+
+Code the BFS (breadth-first-search) algorithm in Python using
+
+- The Graph class provided by NetworkX
+- The Queue class seen in class
+
+Upload your work as a **unique file**, either a **.py** or a notebook **.ipynb**
 # Session 3 - Graph Traversal - Complexity
 - Slides: [Algorithmic Complexity](Session3/05-Algorithmic-Complexity.pdf)
 - Slides: [Breadth-First-Search (BFS)](Session3/06-Graph-Traversal-BFS.pdf)
