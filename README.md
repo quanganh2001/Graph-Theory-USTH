@@ -3,9 +3,10 @@
 - [Session 1 - Introduction](#session-1---introduction)
 	- [Graph Software](#graph-software)
 - [Session 2 - ADT - Graph Traversal - Complexity](#session-2---adt---graph-traversal---complexity)
-	- [Assignment](#assignment)
+	- [Assignment: BFS using queue in Python](#assignment-bfs-using-queue-in-python)
 - [Session 3 - Graph Traversal - Complexity](#session-3---graph-traversal---complexity)
 - [Session 4 - Minimum Spanning Tree](#session-4---minimum-spanning-tree)
+	- [Assignment: Minimum Spanning Trees](#assignment-minimum-spanning-trees)
 - [Session 5 - Binary Trees - Huffman - Binary Search Trees](#session-5---binary-trees---huffman---binary-search-trees)
 - [Session 6 - Maximum flows - Ford-Fulkerson -Edmonds and Karp](#session-6---maximum-flows---ford-fulkerson--edmonds-and-karp)
 - [Session 7 - Graph Coloring](#session-7---graph-coloring)
@@ -30,7 +31,7 @@ Documents for students
 - Code: _copy lib directory and its content_ [lib](Session2/lib)
 - Data: _example graph:_ [`soc-karate.mtx`](Session2/data/soc-karate/soc-karate.mtx)
 - Slides: [DFS Algorithm with a stack](Session2/04-DFS-Algo-With-Stack.pdf)
-## Assignment
+## Assignment: BFS using queue in Python
 [Implement BFS using a queue in Python](Session2/dfs_implement.py)
 
 Code the BFS (breadth-first-search) algorithm in Python using
@@ -46,6 +47,20 @@ Upload your work as a **unique file**, either a **.py** or a notebook **.ipynb**
 # Session 4 - Minimum Spanning Tree
 - Slides: [Prim's and Kruskal algorithms](Session4/08-MinimumSpanningTreePrim.pdf)
 - Slides: [Minimum Spanning Tree: examples](Session4/08-MinimumSpanningTreeRuns.pdf)
+## Assignment: Minimum Spanning Trees
+**Implement a Minimum Spanning Tree Algorithm**
+
+Implement one of 
+- [Prim's algorithm](Session4/prim_algorithm_mst_implement.py)
+- [Boruvka's algorithm](Session4/Boruvka_algorithm_mst_implement.py)
+- Kruskal's algorithm
+
+and apply it to a small graph of your choice.
+
+You code will:
+- build the graph
+- compute a minimum spanning tree
+- display the result: the edges belonging to the spanning tree in **red**, the other in **grey**
 # Session 5 - Binary Trees - Huffman - Binary Search Trees
 - Slides: [Binary Trees - Huffman - Binary Search Trees](Session5/05-BinaryTrees.pdf)
 # Session 6 - Maximum flows - Ford-Fulkerson -Edmonds and Karp
